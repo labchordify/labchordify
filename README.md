@@ -56,6 +56,11 @@ How to start Contributing <b> </b>
  </li>
 </ul>
 
+<h3> Important Notes: </h3>
+<p> 
+
+Consider communicating with the maintainers of the original repository before starting major changes to discuss whether your work aligns with the project's direction.
+Keep your fork in sync with the original repository to avoid excessive merge conflicts.</p>
 
 - 👯We are going to collaborate on **real life projects**
 
