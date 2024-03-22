@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, Welcome to Chordify lab</h1>
-<img align="center"  alt="lab-img" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+<img align="center"  alt="lab-img" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
 How to start Contributing <b> </b> 
 <p>Steps to Fork, Clone, and Create a Pull Request on GitHub:</p>
